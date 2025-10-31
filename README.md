@@ -6,11 +6,19 @@
 ---
 
 ## 🚀 Quick summary
-- **Frontend:** React ( Vite)
+- **Frontend:** React (Vite)
 - **Backend:** Node.js + Express
-- **DB:** MongoDB (Atlas) —schemas for Admin, Jury, Team, and Scores
-- **Deployment:** Vercel (frontend +  backend)
-- **Auth:** simple password-protected roles.
+- **DB:** MongoDB (Atlas) — Schemas for Admin, Jury, Team, and Scores
+- **Deployment:** Vercel (frontend + backend)
+- **Auth:** Simple password-protected roles
 
+---
 
+## 🌐 Live Demo
 
+👉 **[View Live on Vercel](https://marking-client.vercel.app/)**  
+
+> You can access the deployed version here.  
+> The app is fully functional — Admin, Jury, and Status sections are all live.
+
+---
